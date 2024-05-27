@@ -1,6 +1,5 @@
 [Path]
-#Note: The apks should be placed under 'Benchmark' directory.
-Benchmark = ./apks
+Benchmark = apks
 APK_NAME = app.apk
 
 [Setting]
