@@ -1,3 +1,4 @@
+#!/bin/env python3
 import os, sys, shutil, subprocess, re, time, socket, configparser, packaging, packaging.version, packaging.specifiers, packaging.requirements
 from qlearning_final_coverage_multi import QLearning
 from util.coverage_curve_util import calculate_coverage
